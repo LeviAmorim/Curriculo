@@ -17,7 +17,7 @@ Computer Science student seeking opportunities in technology and software develo
 - Hardware
 
 ## Resume
-My professional resume is available in this repository.
+[Download Resume](https://github.com/LeviAmorim/Curriculo/raw/main/Curriculo_Levi_Leme_Profissional%20(2).pdf)
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/levi-leme-1b5a08309
